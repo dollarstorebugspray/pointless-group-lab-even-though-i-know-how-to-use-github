@@ -1,2 +1,4 @@
-# pointless-group-lab-even-though-i-know-how-to-use-github
-blue cheese is better than ranch for chicken wings
+Group Members: Raymond Zong and Ilya Abbasian
+
+Description of program:
+This program takes in two names of anything of the user's liking and tells the gripping and captivating short story of an emotional battle between the two things the user inputted.
